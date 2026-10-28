@@ -1,0 +1,3 @@
+displayName = Nohitter Leaderboard
+author = Movrax
+version = 0.1
